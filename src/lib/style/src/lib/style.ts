@@ -1,3 +1,1 @@
-import { css } from 'glamor';
-
-export { css as style };
+export { css as style } from 'glamor';
