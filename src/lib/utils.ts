@@ -1,1 +1,1 @@
-export * from '@formaxui/style';
+export * from './style/src';
